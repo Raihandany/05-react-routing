@@ -35,3 +35,9 @@ Question Answer :
 |![Screenshot](assets-report/jawaban-soal3-b.PNG)
 |![Screenshot](assets-report/jawaban-soal3-c.PNG)
 |![Screenshot](assets-report/jawaban-soal3-d.PNG)
+|![Screenshot](assets-report/jawaban-soal3-e.PNG)
+|![Screenshot](assets-report/jawaban-soal3-f.PNG)
+
+
+## Practicum soal-4
+Question Answer :
